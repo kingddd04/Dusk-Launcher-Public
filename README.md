@@ -2,7 +2,6 @@
 
 [![Android Capabilities](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)](#)
 [![Minimalism](https://img.shields.io/badge/Design-Minimalist-black)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **Dusk Launcher** is a minimalist Android launcher designed to eliminate visual distractions, reduce screen time, and maximize daily focus. By replacing complex interfaces with a clean, typography-driven layout, Dusk transforms your device into a streamlined and highly responsive tool.
 
@@ -20,11 +19,7 @@
 
 ## 📸 Screenshots
 
-*(Replace these placeholders with real screenshot links from your repository)*
-
-| Home Screen (Dark Theme) | App Search Interface |
-| :---: | :---: |
-| `![Home Screen](https://via.placeholder.com/250x500?text=Dusk+Launcher+Home)` | `![App Search](https://via.placeholder.com/250x500?text=App+Search)` |
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/4faed54f-f13a-4c35-a1fb-f4cf5b74a735" />
 
 ---
 
@@ -33,10 +28,3 @@
 ### Official Download
 Get the latest stable build directly from the Google Play Store:
 👉 **[Download Dusk Launcher on Google Play](https://play.google.com/store/apps/details?id=com.kingddd.dusklauncher)**
-
-### Local Build & Development
-To compile the app yourself or contribute to the source code:
-
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/your-username/dusk-launcher.git](https://github.com/your-username/dusk-launcher.git)
